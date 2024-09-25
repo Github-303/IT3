@@ -2,7 +2,7 @@
 Nộp các bài tập trên lớp IT
 Bài 1:
 
-![alt](bt1_moblie.png)
+![alt](bt1_1_moblie.png)
 
 Bài 2:
 ![alt](bt2_moblie.png)
