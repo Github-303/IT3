@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
-import styles from './styles';
+import styles from './component/styles';
 const NotificationItem = ({ item }) => (
   <View style={[
     styles.itemContainer,
