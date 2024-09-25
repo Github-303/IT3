@@ -9,3 +9,7 @@ Bài 2:
 
 Bài 3:
 ![alt](bt3_mobile.png)
+
+Bài 4:
+![alt](bt4_mobile.png)
+![alt](bt4_1_mobile.png)
