@@ -12,4 +12,12 @@ Bài 3:
 
 Bài 4:
 ![alt](bt4_mobile.png)
+
 ![alt](bt4_1_mobile.png)
+
+Bài 6:
+![alt](bt6_0_moible.png)
+
+![alt](bt6_moible.png)
+
+![alt](bt6_1_moible.png)
