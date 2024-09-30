@@ -1,6 +1,7 @@
 # IT3
 Nộp các bài tập trên lớp IT
 Bài 6:
+
 ![alt](bt6_0_mobile.png)
 
 ![alt](bt6_mobile.png)
