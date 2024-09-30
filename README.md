@@ -1,11 +1,11 @@
 # IT3
 Nộp các bài tập trên lớp IT
 Bài 6:
-![alt](bt6_0_moible.png)
+![alt](bt6_0_mobile.png)
 
-![alt](bt6_moible.png)
+![alt](bt6_mobile.png)
 
-![alt](bt6_1_moible.png)
+![alt](bt6_1_mobile.png)
 
 Bài 4:
 ![alt](bt4_mobile.png)
