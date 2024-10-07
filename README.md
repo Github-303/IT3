@@ -1,6 +1,12 @@
 # IT3
 Nộp các bài tập trên lớp IT
 
+Bài 8:
+
+![8.2](bt8_1_mobile.png)
+
+![8.1](bt8_2_mobile.png)
+
 Bài 7:
 
 ![7](bt7_1_mobile.png)
