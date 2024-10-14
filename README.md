@@ -8,3 +8,4 @@ npm install react-native-screens@3.31.1
 npm install @react-navigation/bottom-tabs
 npm install @expo/vector-icons
 npm install @react-navigation/native-stack
+npm install @react-native-screens@3.31.1
