@@ -1,8 +1,10 @@
 // SignInScreen.js
 import React, { useState, useRef } from 'react';
-import { SafeAreaView, View, Text, TouchableOpacity, StyleSheet, StatusBar } from 'react-native';
+import { SafeAreaView, View, Text, TouchableOpacity, StyleSheet, StatusBar, ImageBackground } from 'react-native';
 import PhoneInput from 'react-native-phone-number-input';
+import { Ionicons } from '@expo/vector-icons';
 
+const bgImage2 = require('../assets/anhlayout2.png');
 const SignIn = () => {
   const [value, setValue] = useState('');  // Phone number value
   const [formattedValue, setFormattedValue] = useState('');  // Formatted phone number value
