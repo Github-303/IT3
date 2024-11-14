@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Orange Juice",
+      "price": 149,
+      "quantity": 1,
+      "image": "https://example.com/orange-juice.png"
+    },
+    {
+      "id": 2,
+      "name": "Skimmed Milk",
+      "price": 129,
+      "quantity": 1,
+      "image": "https://example.com/skimmed-milk.png"
+    },
+    {
+      "id": 3,
+      "name": "Aloe Vera Lotion",
+      "price": 1249,
+      "quantity": 1,
+      "image": "https://example.com/aloe-vera-lotion.png"
+    }
+  ]
+  
